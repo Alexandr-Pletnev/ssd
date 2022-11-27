@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/
+Host: ssd.algosmart.ru
+Sitemap: http://ssd.algosmart.ru/sitemap.xml
